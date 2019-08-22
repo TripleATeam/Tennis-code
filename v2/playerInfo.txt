@@ -1,0 +1,9 @@
+size = 8
+Djokovic 1.0 1.0
+Medvedev 1.0 1.0
+Federer 1.0 1.0
+Nishikori 1.0 1.0
+Thiem 1.0 1.0
+Tsitsipas 1.0 1.0
+Zverev 1.0 1.0
+Nadal 1.0 1.0
