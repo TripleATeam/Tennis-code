@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tennis {
+public class Tennis_Odds_Calc {
 
     private static Player2[] players;
 
