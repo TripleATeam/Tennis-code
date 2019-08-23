@@ -1,0 +1,17 @@
+size = 16
+Novak Djokovic 1.0 1.0 1
+Stan Wawrinka 1.0 1.0 24
+Fabio Fognini 1.0 1.0 11
+Daniil Medvedev 1.0 1.0 5
+Roger Federer 1.0 1.0 3
+David Goffin 1.0 1.0 15
+Milos Raonic 1.0 1.0 22
+Kei Nishikori 1.0 1.0 7
+Stefanos Tsitsipas 1.0 1.0 8
+Roberto Bautista Agut 1.0 1.0 10
+Gael Monfils 1.0 1.0 13
+Dominic Thiem 1.0 1.0 4
+Alexander Zverev 1.0 1.0 6
+Karen Khachanov 1.0 1.0 9
+John Isner 1.0 1.0 14
+Rafael Nadal 1.0 1.0 2
